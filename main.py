@@ -1,6 +1,6 @@
 
 from PIL import Image
-#numpy is something in-built or something that I downloaded as part of my Python installation so I don't need to do 'from'
+# numpy is something in-built or something that I downloaded as part of my Python installation so I don't need to do 'from'
 # import numpy as np
 from colorama import Fore, Back, Style
 
